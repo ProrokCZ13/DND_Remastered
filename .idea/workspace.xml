@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa5985e-bcfd-48f4-b161-1a017035736c" name="Changes" comment="">
+    <list default="true" id="6fa5985e-bcfd-48f4-b161-1a017035736c" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/map/MapConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/map/MapElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entities/Enemies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entities/Enemies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entities/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entities/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entities/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entities/PlayerType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entities/PlayerType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/map/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/map/MapGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ProrokCZ13"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ProrokCZ13/DND_Remastered.git",
     "accountId": "e704cb56-be18-404f-b584-2ae42118eb30"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -73,11 +80,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752610764252</updated>
-      <workItem from="1752610766049" duration="2708000" />
+      <workItem from="1752610766049" duration="4130000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <option name="closed" value="true" />
+      <created>1752614662430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752614662430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
